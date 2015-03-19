@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="TestC1.html">TestC1 - Home to Registration</a></td></tr>
+<tr><td><a href="TestC2.html">TestC2 - Home to Contact</a></td></tr>
+<tr><td><a href="TestC3.html">TestC3 - Home to Login</a></td></tr>
+<tr><td><a href="TestC4.html">TestC4 - Home to Register</a></td></tr>
+<tr><td><a href="TestC5.html">TestC5 - Home to Select Pizza (not logged in)</a></td></tr>
+<tr><td><a href="TestC6.html">TestC6 - Home to Select Pizza (logged in)</a></td></tr>
+<tr><td><a href="TestC7.html">TestC7 - Home to About page using tab</a></td></tr>
+<tr><td><a href="TestC8.html">TestC8 - Home to Contact page using tab</a></td></tr>
+<tr><td><a href="TestC9.html">TestC9 - Home to Order page using tab (not logged in)</a></td></tr>
+<tr><td><a href="Home Page Tests">TestC10 - Home to Order page using tab (logged in).</a></td></tr>
+</tbody></table>
+</body>
+</html>
