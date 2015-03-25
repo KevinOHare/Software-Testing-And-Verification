@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Test 1.html">OPt1 - add cheese pizza</a></td></tr>
+<tr><td><a href="Test 2.html">OPt2 - Cheese pizza with Olives</a></td></tr>
+<tr><td><a href="Test 3.html">OPt3 - Cheese pizza with Pepperoni</a></td></tr>
+<tr><td><a href="Test 4.html">OPt4 - Cheese pizza with Peppers</a></td></tr>
+<tr><td><a href="Test 5.html">OPt5 - Cheese pizza with Onions</a></td></tr>
+<tr><td><a href="Test 6.html">OPt6 - Cheese pizza with Olives and Pepperoni</a></td></tr>
+<tr><td><a href="Test 7.html">OPt7 - Cheese pizza with Olives and Peppers</a></td></tr>
+<tr><td><a href="Test 8.html">OPt8 - Cheese pizza with Olives and Onions</a></td></tr>
+<tr><td><a href="Test 9.html">OPt9 - Cheese pizza with Pepperoni and Peppers</a></td></tr>
+<tr><td><a href="Test 10.html">OPt10 - Cheese pizza with Pepperoni and Onions</a></td></tr>
+<tr><td><a href="Test 11.html">OPt11 - Cheese pizza with Peppers and Onions</a></td></tr>
+<tr><td><a href="Test 12.html">OPt12 - Cheese pizza with Pepperoni, Peppers and Onions</a></td></tr>
+<tr><td><a href="Test 13.html">OPt13 - Cheese pizza with Olives, Peppers and Onions</a></td></tr>
+<tr><td><a href="Test 14.html">OPt14 - Cheese pizza with Olives, pepperoni and onions</a></td></tr>
+<tr><td><a href="Test 15.html">OPt15 - Cheese pizza with olives, pepperoni and peppers</a></td></tr>
+<tr><td><a href="Test 16.html">OPt16 - Cheese pizza with olives, pepperoni, peppers and onions</a></td></tr>
+</tbody></table>
+</body>
+</html>
