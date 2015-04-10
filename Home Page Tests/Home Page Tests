@@ -17,7 +17,8 @@
 <tr><td><a href="TestC7.html">TestC7 - Home to About page using tab</a></td></tr>
 <tr><td><a href="TestC8.html">TestC8 - Home to Contact page using tab</a></td></tr>
 <tr><td><a href="TestC9.html">TestC9 - Home to Order page using tab (not logged in)</a></td></tr>
-<tr><td><a href="Home Page Tests">TestC10 - Home to Order page using tab (logged in).</a></td></tr>
+<tr><td><a href="TestC10.html">TestC10 - Home to Order page using tab (logged in)</a></td></tr>
+<tr><td><a href="TestC11.html">TestC11 - Exploratory test of select pizza link</a></td></tr>
 </tbody></table>
 </body>
 </html>
