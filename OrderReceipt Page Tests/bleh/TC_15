@@ -4,12 +4,12 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/" />
-<title>OrderReceipt_TConn_5</title>
+<title>OrderReceipt_TCase_15</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">OrderReceipt_TConn_5</td></tr>
+<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_15</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
@@ -18,7 +18,7 @@
 </tr>
 <tr>
 	<td>clickAndWait</td>
-	<td>id=MainContent_CheeseAdd</td>
+	<td>id=MainContent_ImageButton2</td>
 	<td></td>
 </tr>
 <tr>
@@ -30,6 +30,11 @@
 	<td>clickAndWait</td>
 	<td>id=MainContent_btnSelect</td>
 	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=b</td>
+	<td>QUBPI</td>
 </tr>
 
 </tbody></table>

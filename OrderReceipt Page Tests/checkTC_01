@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="OrderReceipt_TestSuite">OrderReceipt_TCase_1</a></td></tr>
+<tr><td><a href="bleh/TC_2">OrderReceipt_TCase_2</a></td></tr>
+<tr><td><a href="bleh/TC_3">OrderReceipt_TCase_3</a></td></tr>
+<tr><td><a href="bleh/TC_5">OrderReceipt_TCase_4</a></td></tr>
+<tr><td><a href="checkTC">OrderReceipt_TCase_5</a></td></tr>
+<tr><td><a href="bleh/TC_6">OrderReceipt_TCase_6</a></td></tr>
+<tr><td><a href="bleh/TC_7">OrderReceipt_TCase_7</a></td></tr>
+<tr><td><a href="bleh/TC_8">OrderReceipt_TCase_8</a></td></tr>
+<tr><td><a href="bleh/TC_9">OrderReceipt_TCase_9</a></td></tr>
+<tr><td><a href="bleh/TC_10">OrderReceipt_TCase_10</a></td></tr>
+<tr><td><a href="bleh/TC_11">OrderReceipt_TCase_11</a></td></tr>
+<tr><td><a href="bleh/TC_12">OrderReceipt_TCase_12</a></td></tr>
+<tr><td><a href="bleh/TC_13">OrderReceipt_TCase_13</a></td></tr>
+<tr><td><a href="bleh/TC_14">OrderReceipt_TCase_14</a></td></tr>
+<tr><td><a href="bleh/TC_15">OrderReceipt_TCase_15</a></td></tr>
+<tr><td><a href="bleh/TC_16">OrderReceipt_TCase_16</a></td></tr>
+<tr><td><a href="bleh/TC_17">OrderReceipt_TCase_17</a></td></tr>
+<tr><td><a href="bleh/TC_27">OrderReceipt_TCase_27</a></td></tr>
+<tr><td><a href="bleh/TC_28">OrderReceipt_TCase_28</a></td></tr>
+</tbody></table>
+</body>
+</html>

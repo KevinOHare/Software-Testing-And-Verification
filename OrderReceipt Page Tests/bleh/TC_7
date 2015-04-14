@@ -4,36 +4,31 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/" />
-<title>OrderReceipt_TConn_1</title>
+<title>OrderReceipt_TCase_7</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">OrderReceipt_TConn_1</td></tr>
+<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_7</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
-	<td>/Members/OrderReceipt.aspx</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>link=Order</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>link=Home</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>link=Order</td>
+	<td>/Members/OrderPizza.aspx</td>
 	<td></td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
 	<td>id=MainContent_DeluxeImgBtn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_DeluxeImgBtn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_CheeseAdd</td>
 	<td></td>
 </tr>
 <tr>
@@ -45,6 +40,11 @@
 	<td>clickAndWait</td>
 	<td>id=MainContent_btnSelect</td>
 	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=MainContent_LblOrder</td>
+	<td>Deluxe<br />No extras<br />£8.99 <br /><br />Deluxe<br />No extras<br />£8.99 <br /><br />Cheese<br />No extras<br />£5.99 <br /><br />---------------<br /><br /><br />£ 23.97</td>
 </tr>
 
 </tbody></table>

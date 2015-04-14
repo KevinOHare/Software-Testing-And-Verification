@@ -4,12 +4,12 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/" />
-<title>OrderReceipt_TConn_10</title>
+<title>OrderReceipt_TCase_3</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">OrderReceipt_TConn_10</td></tr>
+<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_3</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
@@ -22,9 +22,49 @@
 	<td></td>
 </tr>
 <tr>
+	<td>click</td>
+	<td>id=MainContent_deluxePepperoni</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=MainContent_deluxePeppers</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=MainContent_deluxeOnions</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=label</td>
+	<td>Olives</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='pizzaItem']/div/span[2]/label</td>
+	<td>Pepperoni</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='pizzaItem']/div/span[3]/label</td>
+	<td>Peppers</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='pizzaItem']/div/span[4]/label</td>
+	<td>Onions</td>
+</tr>
+<tr>
 	<td>clickAndWait</td>
 	<td>id=MainContent_DeluxeImgBtn</td>
 	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=MainContent_0</td>
+	<td>Deluxe<br />olives<br />pepperoni<br />peppers<br />onions<br />£10.89<br />Remove</td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
@@ -32,54 +72,14 @@
 	<td></td>
 </tr>
 <tr>
-	<td>click</td>
-	<td>id=MainContent_RadioButtonList1_1</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>//table[@id='MainContent_RadioButtonList1']/tbody/tr/td[2]/label</td>
-	<td></td>
-</tr>
-<tr>
-	<td>select</td>
-	<td>id=MainContent_Hour</td>
-	<td>label=06</td>
-</tr>
-<tr>
-	<td>select</td>
-	<td>id=MainContent_Min</td>
-	<td>label=00</td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>link=1</td>
-	<td></td>
-</tr>
-<tr>
 	<td>clickAndWait</td>
 	<td>id=MainContent_btnSelect</td>
 	<td></td>
 </tr>
 <tr>
-	<td>clickAndWait</td>
-	<td>id=MainContent_btnSelect</td>
-	<td></td>
-</tr>
-<tr>
-	<td>click</td>
-	<td>LOCATOR_DETECTION_FAILED</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>id=MainContent_btnSelect</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>id=MainContent_btnSelect</td>
-	<td></td>
+	<td>verifyText</td>
+	<td>css=#MainContent_LblOrder &gt; b</td>
+	<td>Deluxe<br />olives<br />pepperoni<br />peppers<br />onions<br />£10.89</td>
 </tr>
 
 </tbody></table>

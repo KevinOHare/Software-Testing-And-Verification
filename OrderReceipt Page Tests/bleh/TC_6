@@ -4,12 +4,12 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/" />
-<title>OrderReceipt_TConn_7</title>
+<title>OrderReceipt_TCase_6</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">OrderReceipt_TConn_7</td></tr>
+<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_6</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
@@ -18,13 +18,23 @@
 </tr>
 <tr>
 	<td>click</td>
-	<td>id=MainContent_deluxePepperoni</td>
+	<td>id=MainContent_meatOlives</td>
 	<td></td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
-	<td>id=MainContent_DeluxeImgBtn</td>
+	<td>id=MainContent_ImageButton2</td>
 	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_CheeseAdd</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=MainContent_CartPnl</td>
+	<td>Meat<br />olives<br /><br />£8.44<br />Remove <br /><br />Cheese<br />No extras<br />£5.99<br />Remove</td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
@@ -32,19 +42,14 @@
 	<td></td>
 </tr>
 <tr>
-	<td>click</td>
-	<td>id=MainContent_RadioButtonList1_1</td>
+	<td>clickAndWait</td>
+	<td>id=MainContent_btnSelect</td>
 	<td></td>
 </tr>
 <tr>
-	<td>clickAndWait</td>
-	<td>//table[@id='MainContent_RadioButtonList1']/tbody/tr/td[2]/label</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>link=10</td>
-	<td></td>
+	<td>verifyText</td>
+	<td>//div[@id='body']/section/div/layouttemplate/fieldset/ol/p[3]</td>
+	<td>Meat<br />olives<br /><br />£8.44 <br /><br />Cheese<br />No extras<br />£5.99 <br /><br />---------------<br /><br /><br />£ 14.43</td>
 </tr>
 
 </tbody></table>

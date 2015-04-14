@@ -4,41 +4,21 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/" />
-<title>OrderReceipt_TConn_11</title>
+<title>OrderReceipt_TCase_11</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">OrderReceipt_TConn_11</td></tr>
+<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_11</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
-	<td>/Members/Manage</td>
-	<td></td>
-</tr>
-<tr>
-	<td>type</td>
-	<td>id=MainContent_Password</td>
-	<td>lespaul260</td>
-</tr>
-<tr>
-	<td>type</td>
-	<td>id=MainContent_ConfirmPassword</td>
-	<td>lespaul260</td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>id=MainContent_Update</td>
-	<td></td>
-</tr>
-<tr>
-	<td>clickAndWait</td>
-	<td>link=Order</td>
+	<td>/Members/OrderPizza.aspx</td>
 	<td></td>
 </tr>
 <tr>
 	<td>click</td>
-	<td>id=MainContent_deluxeOlives</td>
+	<td>id=MainContent_deluxePepperoni</td>
 	<td></td>
 </tr>
 <tr>
@@ -52,9 +32,39 @@
 	<td></td>
 </tr>
 <tr>
+	<td>click</td>
+	<td>id=MainContent_RadioButtonList1_1</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//table[@id='MainContent_RadioButtonList1']/tbody/tr/td[2]/label</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=12</td>
+	<td></td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=MainContent_Hour</td>
+	<td>label=12</td>
+</tr>
+<tr>
+	<td>select</td>
+	<td>id=MainContent_Min</td>
+	<td>label=00</td>
+</tr>
+<tr>
 	<td>clickAndWait</td>
 	<td>id=MainContent_btnSelect</td>
 	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=#MainContent_lblOrderDate &gt; b</td>
+	<td>12 March 2015 12:00</td>
 </tr>
 
 </tbody></table>
