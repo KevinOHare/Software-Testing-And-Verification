@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="LoginTest3.html">Login_TCase_3</a></td></tr>
+<tr><td><a href="LoginTest4.html">Login_TCase_4</a></td></tr>
+<tr><td><a href="LoginTest5.html">Login_TCase_5</a></td></tr>
+<tr><td><a href="LoginTest7.html">Login_TCase_7</a></td></tr>
+<tr><td><a href="LoginTest9.html">Login_TCase_9</a></td></tr>
+<tr><td><a href="LoginTest10.html">Login_TCase_10</a></td></tr>
+<tr><td><a href="LoginTest11.html">Login_TCase_11</a></td></tr>
+<tr><td><a href="LoginTest12.html">Login_TCase_12</a></td></tr>
+<tr><td><a href="LoginTest13.html">Login_TCase_13</a></td></tr>
+<tr><td><a href="LoginTest14.html">Login_TCase_14</a></td></tr>
+<tr><td><a href="LoginTest15.html">Login_TCase_15</a></td></tr>
+<tr><td><a href="LoginTest19.html">Login_TCase_19</a></td></tr>
+</tbody></table>
+</body>
+</html>
