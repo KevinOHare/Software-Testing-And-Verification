@@ -4,26 +4,31 @@
 <head profile="http://selenium-ide.openqa.org/profiles/test-case">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/" />
-<title>OrderReceipt_TCase_20</title>
+<title>OrderReceipt_TCase_22</title>
 </head>
 <body>
 <table cellpadding="1" cellspacing="1" border="1">
 <thead>
-<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_20</td></tr>
+<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_22</td></tr>
 </thead><tbody>
 <tr>
 	<td>open</td>
-	<td>/Members/OrderReceipt.aspx</td>
+	<td>/</td>
 	<td></td>
 </tr>
 <tr>
 	<td>clickAndWait</td>
-	<td>css=span.username</td>
+	<td>link=Order</td>
 	<td></td>
 </tr>
 <tr>
 	<td>type</td>
-	<td>id=MainContent_CurrentPassword</td>
+	<td>id=MainContent_UserName</td>
+	<td>ahale03@qub.ac.uk</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=MainContent_Password</td>
 	<td>lespaul260</td>
 </tr>
 
