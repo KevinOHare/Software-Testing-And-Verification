@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Ordering_TCase_3_Page_Prices">Ordering_Page_1_Page_Prices</a></td></tr>
+<tr><td><a href="Ordering_TCase_4_Textual_Descriptions">Ordering_Page_2_Textual_Descriptions</a></td></tr>
+<tr><td><a href="Ordering_TCase_5_Extras_Names">Ordering_Page_3_Extras_Names</a></td></tr>
+<tr><td><a href="Ordering_TCase_6_and_7_Add_Remove_Classic">Ordering_Page_4+5_Add_Remove_Classic</a></td></tr>
+<tr><td><a href="Ordering_TCase_8+9_Add_Remove_Cheese">Ordering_Page_6+7_Add_Remove_Cheese</a></td></tr>
+<tr><td><a href="Ordering_TCase_10+11_Add_Remove_Meat">Ordering_Page_8+9_Add_Remove_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_12_Classic_Proceed">Ordering_Page_10_Proceed_Classic</a></td></tr>
+<tr><td><a href="Ordering_TCase_13_Proceed_Cheese">Ordering_Page_11_Proceed_Cheese</a></td></tr>
+<tr><td><a href="Ordering_TCase_14_Proceed_Meat">Ordering_Page_12_Proceed_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_15_Classic_Cheese">Ordering_Page_13+14_Add_Classic_Cheese</a></td></tr>
+<tr><td><a href="Ordering_TCase_17+18_Classic_Meat">Ordering_Page_15+16_Classic_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_19+20_Cheese_Meat">Ordering_Page_17+18_Cheese_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_21+22_Classic_Cheese_Meat">Ordering_Page_19+20_Classic_Cheese_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_23_Two_Classics_One_Cheese">Ordering_Page_21+22_Two_Classics_One_Cheese</a></td></tr>
+<tr><td><a href="Ordering_TCase_25+26_Two_Classics_One_Meat">Ordering_Page_23+24_Two_Classics_One_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_27+28_One_Classic_Two_Cheese">Ordering_Page_25+26_One_Classic_Two_Cheese</a></td></tr>
+<tr><td><a href="Ordering_TCase_29+30_One_Classic_Two_Meat">Ordering_Page_27+28_One_Classic_Two_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_31+32_One_Cheese_Two_Meat">Ordering_Page_29+30_One_Cheese_Two_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_33+34_Two_Cheese_One_Meat">Ordering_Page_31+32_Two_Cheese_One_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_35+36_Two_Classic_Two_Cheese">Ordering_Page_33+34_Two_Classic_Two_Cheese</a></td></tr>
+<tr><td><a href="Ordering_TCase_37+38_Two_Classic_Two_Meat">Ordering_Page_35+36_Two_Classic_Two_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_39+40_Two_Cheese_Two_Meat">Ordering_Page_37+38_Two_Cheese_Two_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_41+42_Two_Classic_Two_Cheese_One_Meat">Ordering_Page_39+40_Two_Classic_Two_Cheese_One_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_43+44_Two_Classic_One_Cheese_Two_Meat">Ordering_Page_41+42_Two_Classic_One_Cheese_Two_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_45+46_One_Classic_Two_Cheese_Two_Meat">Ordering_Page_43+44_One_Classic_Two_Cheese_Two_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_47+48_Two_Classic_Two_Cheese_Two_Meat">Ordering_Page_45+46_Two_Classic_Two_Cheese_Two_Meat</a></td></tr>
+<tr><td><a href="Ordering_TCase_49+50_Ten_Classics">Ordering_Page_47+48_Ten_Classics</a></td></tr>
+<tr><td><a href="Ordering_TCase_51_Ten_Remove">Ordering_Page_49_Ten_Remove</a></td></tr>
+<tr><td><a href="Ordering_TCase_52+53_Twenty_Classic_Deluxe">Ordering_Page_50+51_Twenty_Classic_Deluxe</a></td></tr>
+<tr><td><a href="Ordering_TCase_54_Twenty_Remove">Ordering_Page_52_Twenty_Remove</a></td></tr>
+<tr><td><a href="Ordering_TCase_55+56_Hundred_Classics_Proceed">Ordering_Page_53+54_Hundred_Classics_Proceed</a></td></tr>
+<tr><td><a href="Ordering_TCase_58_Toppings_Unnecessary">Ordering_Page_55_Toppings_Unnecessary</a></td></tr>
+<tr><td><a href="Ordering_TCase_59_Empty_Proceed">Ordering_Page_56_Empty_Proceed</a></td></tr>
+<tr><td><a href="Ordering_TCase_70_No_Forgot_Link">Ordering_Page_57_No_Forgot_Link</a></td></tr>
+<tr><td><a href="Ordering_TCase_71_My_Account_Access">Ordering_Page_58_My_Account_Access</a></td></tr>
+<tr><td><a href="Ordering_TCase_72_Navigational_Test">Ordering_Page_59_Navigational_Test</a></td></tr>
+<tr><td><a href="Ordering_TCase_73_Navigation_With_Item">Ordering_Page_60_Navigation_With_Item</a></td></tr>
+<tr><td><a href="Ordering_TCase_77_Residue_Test">Ordering_Page_61_Residue_Test</a></td></tr>
+<tr><td><a href="Ordering_TCase_79_Title_Presence_Check">Ordering_Page_62_Title_Presence_Check</a></td></tr>
+<tr><td><a href="Ordering_TCase_80_Footer_Check">Ordering_Page_63_Footer_Check</a></td></tr>
+<tr><td><a href="Ordering_TCase_81_Header_Check">Ordering_Page_64_Header_Check</a></td></tr>
+<tr><td><a href="Ordering_TCase_86_Log_Out_Test">Ordering_Page_65_Log_Out_Test</a></td></tr>
+<tr><td><a href="Ordering_TCase_88_Classic_Olive">Ordering_Page_66_Classic_Olive</a></td></tr>
+<tr><td><a href="Ordering_TCase_89_Classic_Pepperoni">Ordering_Page_67_Classic_Pepperoni</a></td></tr>
+<tr><td><a href="Ordering_TCase_90_Classic_Peppers">Ordering_Page_68_Classic_Peppers</a></td></tr>
+<tr><td><a href="Ordering_TCase_91_Classic_Onions">Ordering_Page_69_Classic_Onions</a></td></tr>
+<tr><td><a href="Ordering_TCase_92_Classic_Olives_Pepperoni">Ordering_Page_70_Olives_Pepperoni</a></td></tr>
+<tr><td><a href="Ordering_TCase_93_Classic_Olives_Peppers">Ordering_Page_71_Olives_Peppers</a></td></tr>
+<tr><td><a href="Ordering_TCase_94_Classic_Olives_Onions">Ordering_Page_72_Classic_Olives_Onions</a></td></tr>
+<tr><td><a href="Ordering_TCase_95_Classic_Peppers_Pepperoni">Ordering_Page_73_Classic_Peppers_Pepperoni</a></td></tr>
+<tr><td><a href="Ordering_TCase_96_Classic_Pepperoni_Onions">Ordering_Page_74_Classic_Pepperoni_Onions</a></td></tr>
+<tr><td><a href="Ordering_TCase_97_Classic_Peppers_Onions">Ordering_Page_75_Classic_Peppers_Onions</a></td></tr>
+<tr><td><a href="Ordering_TCase_98_Classic_Pepperoni_Peppers_Onions">Ordering_Page_76_Classic_Pepperoni_Peppers_Onions</a></td></tr>
+<tr><td><a href="Ordering_TCase_99_Classic_Olives_Peppers_Onions">Ordering_Page_77_Classic_Olives_Peppers_Onions</a></td></tr>
+<tr><td><a href="Ordering_TCase_100_Classic_Olives_Peppers_Pepperoni">Ordering_Page_78_Classic_Olives_Peppers_Pepperoni</a></td></tr>
+<tr><td><a href="Ordering_TCase_101_Classic_All">Ordering_Page_79_Classic_All</a></td></tr>
+</tbody></table>
+</body>
+</html>

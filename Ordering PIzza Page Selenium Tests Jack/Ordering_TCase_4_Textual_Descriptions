@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/Members/OrderPizza.aspx" />
+<title>Ordering_Page_2_Textual_Descriptions</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Ordering_Page_2_Textual_Descriptions</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/Members/OrderPizza.aspx</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=pizzaItem</td>
+	<td>Classic Deluxe £8.99Pepperoni, Mushrooms, Onions, <br />Green Peppers, Sausage, Mozzarella Cheese Extra Toppings <br /> Olives <br /> Pepperoni <br /> Peppers<br /> Onions<br /><br /> <br /><br /> Add to cart..</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=pizzaItem3</td>
+	<td>Cheese Pizza £5.99Add Your OWN Toppings Extra Toppings <br /> Olives <br /> Pepperoni <br /> Peppers<br /> Onions<br /><br /> <br /> <br /><br /> Add to cart..</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=pizzaItem2</td>
+	<td>Meat Extravaganza £7.49Pepperoni, Ham, Sausage,<br />Bacon, Hamburger, Mozzarella Cheese Extra Toppings <br /> Olives <br /> Pepperoni <br /> Peppers<br /> Onions<br /><br /> <br /> <br /> Add to cart..</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

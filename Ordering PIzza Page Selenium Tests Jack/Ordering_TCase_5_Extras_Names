@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/Members/OrderPizza.aspx" />
+<title>Ordering_Page_3_Extras_Names</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">Ordering_Page_3_Extras_Names</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/Members/OrderPizza.aspx</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=#pizzaItem &gt; div.float-right</td>
+	<td>Extra Toppings <br /> Olives <br /> Pepperoni <br /> Peppers<br /> Onions<br /><br /> <br /><br /> Add to cart..</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=#pizzaItem3 &gt; div.float-right</td>
+	<td>Extra Toppings <br /> Olives <br /> Pepperoni <br /> Peppers<br /> Onions<br /><br /> <br /> <br /><br /> Add to cart..</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=#pizzaItem2 &gt; div.float-right</td>
+	<td>Extra Toppings <br /> Olives <br /> Pepperoni <br /> Peppers<br /> Onions<br /><br /> <br /> <br /> Add to cart..</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
