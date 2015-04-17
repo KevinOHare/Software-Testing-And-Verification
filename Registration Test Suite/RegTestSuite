@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="Reg_Tproc_1 - validLogin.html">Reg_Tproc_1</a></td></tr>
+<tr><td><a href="Reg_Tproc_2 - allBlankFields.html">Reg_Tproc_2</a></td></tr>
+<tr><td><a href="Reg_Tproc_3 - invalidEmail1.html">Reg_Tproc_3</a></td></tr>
+<tr><td><a href="Reg_Tproc_1 - validLogin.html">Reg_Tproc_4</a></td></tr>
+<tr><td><a href="Reg_Tproc_5 - invalidEmail3.html">Reg_Tproc_5</a></td></tr>
+<tr><td><a href="Reg_Tproc_6 - invalidEmail4.html">Reg_Tproc_6</a></td></tr>
+<tr><td><a href="Reg_Tproc_7 - invalidEmail5.html">Reg_Tproc_7</a></td></tr>
+<tr><td><a href="Reg_Tproc_8 - invalidPassword.html">Reg_Tproc_8</a></td></tr>
+<tr><td><a href="Reg_Tproc_9 - validPassword.html">Reg_Tproc_9</a></td></tr>
+<tr><td><a href="Reg_Tproc_10 - mismatchPasswords.html">Reg_Tproc_10</a></td></tr>
+<tr><td><a href="Reg_Tproc_11 - blankValidationCheck.html">Reg_Tproc_11</a></td></tr>
+<tr><td><a href="Reg_Tproc_16 - directToLoginPg_SucessfullyLogin.html">Reg_Tproc_16</a></td></tr>
+<tr><td><a href="Reg_Tproc_19 - passwordHidden.html">Reg_Tproc_19</a></td></tr>
+<tr><td><a href="Reg_Tproc_20 - copyPastePassword.html">Reg_Tproc_20</a></td></tr>
+<tr><td><a href="Reg_Tproc_21 - reregisterUsingBackSpace.html">Reg_Tproc_21</a></td></tr>
+<tr><td><a href="Reg_Tproc_27 - HomeNav.html">Reg_Tproc_27</a></td></tr>
+<tr><td><a href="Reg_Tproc_28 - OrderNav.html">Reg_Tproc_28</a></td></tr>
+<tr><td><a href="Reg_Tproc_29 - AboutNav.html">Reg_Tproc_29</a></td></tr>
+<tr><td><a href="Reg_Tproc_30 - ContactNav.html">Reg_Tproc_30</a></td></tr>
+<tr><td><a href="Reg_Tproc_31 - LoginNav.html">Reg_Tproc_31</a></td></tr>
+</tbody></table>
+</body>
+</html>
