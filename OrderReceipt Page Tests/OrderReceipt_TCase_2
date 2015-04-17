@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://lamp.eeecs.qub.ac.uk:8080/" />
+<title>OrderReceipt_TCase_2</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">OrderReceipt_TCase_2</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/Members/OrderPizza.aspx</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=MainContent_CheeseOlives</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=MainContent_CheesePepperoni</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=MainContent_CheesePeppers</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=MainContent_CheeseOnions</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=#pizzaItem3 &gt; div.float-right &gt; span.SingleCheckbox &gt; label</td>
+	<td>Olives</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='pizzaItem3']/div/span[2]/label</td>
+	<td>Pepperoni</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='pizzaItem3']/div/span[3]/label</td>
+	<td>Peppers</td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='pizzaItem3']/div/span[4]/label</td>
+	<td>Onions</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_CheeseAdd</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>id=MainContent_0</td>
+	<td>Cheese<br />olives<br />pepperoni<br />peppers<br />onions<br />£7.89<br />Remove</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_ProceedBtn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=MainContent_btnSelect</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=#MainContent_LblOrder &gt; b</td>
+	<td>Cheese<br />olives<br />pepperoni<br />peppers<br />onions<br />£7.89</td>
+</tr>
+</tbody></table>
+</body>
+</html>
